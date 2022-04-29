@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Shoner's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shoner/shoner.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. Shoner의 github 페이지에 오신 것을 환영합니다!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이 페이지는 [Jekyll](https://jekyllrb.com/)로 빌드 되었습니다.
 
 ### Markdown
 
